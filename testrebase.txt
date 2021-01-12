@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 developer 2 is making changes on the same file 
+=======
+developer one is making a change inte file 
+>>>>>>> 69437f58a6d6c553a18e2f1f67c008e8f1c59d77
